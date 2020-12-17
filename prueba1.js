@@ -1,3 +1,3 @@
+// AMBOS TEXTOS JUNTOS
 console.log('Hola Mundo!');
-
-//comentario cualquiera
+console.log('Hola Clase!');
